@@ -1,0 +1,18 @@
+{
+  "name": "slot-gacor-gampang-menang",
+  "main": "./lib/slot-gacor-gampang-menang",
+  "version": "1.0.0",
+  "description": "Cara Depo Bocoran Gacor Slot Gacor Gampang Menang Penghasil Uang Langsung Ke Rekening 2022",
+  "keywords": ["agentotoplay slot","slot online cq9","situs slot online terpercaya","habanero slot","slot online","situs judi slot online","habanero slot","slot terbaik","slot online cq9","slot online","slot joker gaming"],
+
+  "activationCommands": {
+    "atom-workspace": "slot-gacor-gampang-menang:toggle"
+  },
+  "repository": "https://github.com/slotinjector/slot-gacor-gampang-menang",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

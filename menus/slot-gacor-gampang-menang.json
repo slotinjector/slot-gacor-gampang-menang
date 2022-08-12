@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-gacor-gampang-menang",
+        "command": "slot-gacor-gampang-menang:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-gacor-gampang-menang",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-gacor-gampang-menang:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
